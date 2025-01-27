@@ -40,15 +40,6 @@ calculator-project/
 
 ---
 
-
-🎨 Preview
-
-
-(Replace the link above with a screenshot or GIF of your calculator)
-
-
----
-
 🌟 Future Enhancements
 
 Add JavaScript for real-time calculations.
